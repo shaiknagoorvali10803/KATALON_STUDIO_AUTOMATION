@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateNewUser</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1c208aeb-5ed0-4b6c-b840-9fbc8e500b53</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c14ad394-6694-4a7b-9ce8-1dca6ea9c86b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c14ad394-6694-4a7b-9ce8-1dca6ea9c86b</id>
+      <masked>false</masked>
+      <name>randomName</name>
+   </variable>
+</TestCaseEntity>

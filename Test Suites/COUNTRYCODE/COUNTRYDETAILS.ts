@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>COUNTRYDETAILS</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>c2d2d193-3507-494d-aca2-cc70724074aa</testSuiteGuid>
+   <testCaseLink>
+      <guid>7c42bdd3-8613-4314-a0eb-e302bec1caca</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/COUNTRYCODES/COUNTRYCODE</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>6bcc295c-4f39-4526-805f-2615d16a5dbc</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/COUNTRYCODE/COUNTRYCODE</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>6bcc295c-4f39-4526-805f-2615d16a5dbc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>isoCode</value>
+         <variableId>58f56999-4a21-4969-9717-23d0285ff378</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6bcc295c-4f39-4526-805f-2615d16a5dbc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>language</value>
+         <variableId>3161283c-b182-4e71-bae7-bfa3e6aa4ca9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6bcc295c-4f39-4526-805f-2615d16a5dbc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>currencyIsoCode</value>
+         <variableId>7a411e1e-a33e-44c6-94c8-f5961f5244e9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6bcc295c-4f39-4526-805f-2615d16a5dbc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>phoneCode</value>
+         <variableId>68d9e8ab-ab23-4fe9-bb59-2ca3a8a7ca8d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6bcc295c-4f39-4526-805f-2615d16a5dbc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>capital</value>
+         <variableId>1ea92437-3907-4577-8553-a02eada04f6e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6bcc295c-4f39-4526-805f-2615d16a5dbc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>countryName</value>
+         <variableId>d3e1a6ea-92bb-40b6-bbd1-1d23cd151c98</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
