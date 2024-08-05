@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "433AE2AC3F9A0AAF5C700964811AF6BD",
+  "keywordClasses": [
+    {
+      "name": "countryDetails.GetFullCountryDetails",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
